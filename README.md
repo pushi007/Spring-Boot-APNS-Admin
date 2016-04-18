@@ -15,5 +15,5 @@
  
 ## Using Spring-Boot-Admin service
 Any Spring boot application can be registered with this admin service by simply adding a property in application.properties file of running sprign boot application.
-###Property to be added in application.properties file of the application which needs to be registered with Admin service :
+###Property to be added in application.properties file of the application which needs to be registered with Spring-Boot-Admin service :
 `spring.boot.admin.url=http://server-name:8080`
